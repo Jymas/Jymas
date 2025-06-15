@@ -9,3 +9,4 @@ Eu sou o Jymas, sou um programador front-end, atualmente  estou aprendendo e cri
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jymas&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jymas&layout=compact&show_icons=true&theme=buefy)](https://github.com/Jymas/github-readme-stats)
