@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Jymas, sou um programador front-end, atualmente  estou aprendendo e criando projetos com:
+Eu sou o Dine, sou um programador front-end, atualmente  estou aprendendo e criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?" alt="logo-html"/>
